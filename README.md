@@ -1,2 +1,1 @@
-# QuantumAiToolkitSDK
-Advanced QuantumAiToolkitSDK project
+.
